@@ -3,6 +3,8 @@
 This project explores the **Single Responsibility Principle (SRP)** within the context of React applications. SRP is the first of the SOLID principles, which are essential for building software that is easy to understand, maintain, and extend. By following SRP, you ensure that each component or module has one reason to change, leading to cleaner and more focused code.
 
 **📝 You can compare before and after more explicitly based on the project's (commits) history.**
+- [Before applying the SRP](https://github.com/joaopelisson/ReactJS_SingleResponsibility/commit/e5c137104212b14158c5c9aa988c7b3eaeb1797b#diff-26ad4b834941d9b19ebf9db8082bd202aaf72ea0ddea85f5a8a0cb3c729cc6f2)
+- [Applying single responsibility principle](https://github.com/joaopelisson/ReactJS_SingleResponsibilityPrinciple/commit/da4a8d5043f61f9a8febface16ce9937f366a2b7)
 
 ## 🛠️ What is SOLID?
 
